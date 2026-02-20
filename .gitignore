@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+venv311/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# Generated projects (optional)
+generated_projects/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
